@@ -312,8 +312,7 @@ python mein.py
 
 **Ajay Gangwar**
 
-GitHub:
-https://github.com/ajaygangwar8807
+GitHub: https://github.com/ajaygangwar8807/AI-Video-Assistant
 
 LinkedIn: [Ajay Gangwar](https://www.linkedin.com/in/ajay-gangwar-538765394/)
 
